@@ -1,4 +1,5 @@
 # Tigran Gasparyan
+**`Junior FUll Stack Developer`**
 
 ### 🧰 Languages and Tools
 
