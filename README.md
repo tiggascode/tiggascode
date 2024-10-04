@@ -1,5 +1,5 @@
 # Tigran Gasparyan
-**`Junior FUll Stack Developer`**
+<!--**`Junior FUll Stack Developer`**-->
 
 ### 🧰 Languages and Tools
 
@@ -20,7 +20,8 @@
 
 ![Tigran's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiggascode&show_icons=true&theme=gruvbox)
 
-#
+<!--#
 <details>
 <summary><h3>👨‍💻 Tigran's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself PHP/Laravel development with a dream to start working and creating something new. Every day after lessons i come home and start learning new or writing code for my own websites.
+-->
